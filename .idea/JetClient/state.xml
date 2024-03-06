@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JetClientState">
+    <option name="folders">
+      <list>
+        <folderState>
+          <option name="auth">
+            <authState>
+              <option name="apiKey">
+                <apiKeyAuthState>
+                  <option name="key" value="X-Authorization" />
+                  <option name="value" value="2f6d4930-a491-47e9-a3b2-f7a274c34e22:ZGM4MDM2ZTZhMzVhY2FjMTU5MDRlNjA0MjY0ZDFiNTVjMjQ1NGZlMzM2YjAxMTFlZTYyOWJkMTZiNzNiYmM2NQ==" />
+                </apiKeyAuthState>
+              </option>
+              <option name="type" value="API_KEY" />
+            </authState>
+          </option>
+          <option name="headers">
+            <list>
+              <headerState>
+                <option name="key" value="Nonce" />
+                <option name="value" value="1708074817549" />
+              </headerState>
+            </list>
+          </option>
+          <option name="id" value="23f83191-07ec-496d-9f7d-a31d21e7652c" />
+          <option name="name" value="structurizr.moarse" />
+          <option name="requests">
+            <list>
+              <requestState>
+                <option name="id" value="b49eb7a8-42a1-48b8-b55b-62e439bdbc03" />
+                <option name="method" value="GET" />
+                <option name="name" value="GET" />
+                <option name="url" value="http://structurizr.moarse.ru/api/workspace/1" />
+              </requestState>
+            </list>
+          </option>
+          <option name="sortWeight" value="1000000" />
+          <option name="syncProperties">
+            <synchronizationPropertiesState>
+              <option name="folderPath" value="E:\Projects\TheHunt\arch\hunt-c4-java\.jetclient" />
+            </synchronizationPropertiesState>
+          </option>
+        </folderState>
+      </list>
+    </option>
+    <option name="id" value="7f3fe6ff-21f5-4103-8401-634cd97ca28d" />
+  </component>
+</project>

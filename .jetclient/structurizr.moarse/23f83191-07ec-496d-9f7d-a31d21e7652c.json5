@@ -1,0 +1,28 @@
+{
+  id: "23f83191-07ec-496d-9f7d-a31d21e7652c",
+  name: "structurizr.moarse",
+  icon: "FOLDER",
+  sortWeight: 1000000,
+  headers: [
+    {
+      key: "Nonce",
+      value: "1708074817549"
+    }
+  ],
+  auth: {
+    type: "API_KEY",
+    apiKey: {
+      key: "X-Authorization",
+      value: "2f6d4930-a491-47e9-a3b2-f7a274c34e22:ZGM4MDM2ZTZhMzVhY2FjMTU5MDRlNjA0MjY0ZDFiNTVjMjQ1NGZlMzM2YjAxMTFlZTYyOWJkMTZiNzNiYmM2NQ==",
+      inHeader: true
+    }
+  },
+  requests: [
+    {
+      id: "b49eb7a8-42a1-48b8-b55b-62e439bdbc03",
+      name: "GET",
+      method: "GET",
+      url: "http://structurizr.moarse.ru/api/workspace/1"
+    }
+  ]
+}
